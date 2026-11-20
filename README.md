@@ -55,9 +55,13 @@ GET	/api/orders/:orderId	Visa en order
 
 🚀 Köra projektet lokalt
 bash
+
 git clone 
+
 cd airbean-api
+
 npm install
+
 npm run dev
 
 Servern startar på http://localhost:3000. Databasen skapas automatiskt och fylls med menyn.
