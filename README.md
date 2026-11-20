@@ -57,7 +57,7 @@ GET	/api/orders/:orderId	Visa en order
 
 bash
 
-git clone 
+git clone https://github.com/samira411-art/airbean-api.git
 
 cd airbean-api
 
