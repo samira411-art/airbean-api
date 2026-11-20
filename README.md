@@ -54,6 +54,7 @@ POST	/api/orders	Beställ det som ligger i korgen
 GET	/api/orders/:orderId	Visa en order
 
 🚀 Köra projektet lokalt
+
 bash
 
 git clone 
